@@ -1,0 +1,11 @@
+{
+  "engines": {
+    "node": "10.7.0"
+  },
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
